@@ -1,4 +1,4 @@
-
+ 
 def promedio_curso(promedios):
     return sum(promedios) / len(promedios)
 
