@@ -1,4 +1,4 @@
-
+ 
 # Calcular el promedio de 22 edades
 # Calcular el promedio de 22 notas
 # Calcular el promedio de 22 mesadas 
