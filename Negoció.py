@@ -1,4 +1,4 @@
-
+ 
 def calcular_total_a_pagar(cantidad_kg, precio_por_kilo):
     """Calcula el total a pagar basado en la cantidad y el precio por kilo."""
     return cantidad_kg * precio_por_kilo
